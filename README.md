@@ -249,10 +249,11 @@ Structured learning for new and experienced sellers.
 
 Build custom integrations, tools, and automations.
 
-- [Amazon SP-API](https://developer-docs.amazon.com/sp-api/) — Selling Partner API. The official API for building Amazon seller tools.
 - [Amazon Advertising API](https://advertising.amazon.com/API/) — Programmatic access to Sponsored Products, Brands, and Display campaigns.
-- [Keepa API](https://keepa.com/#!api) — Access historical price, sales rank, and product data.
 - [Amazon MWS (deprecated)](https://docs.developer.amazonservices.com/) — Legacy API. Migrating to SP-API by 2026.
+- [Amazon SP-API](https://developer-docs.amazon.com/sp-api/) — Selling Partner API. The official API for building Amazon seller tools.
+- [Keepa API](https://keepa.com/#!api) — Access historical price, sales rank, and product data.
+- [Pangolinfo Amazon Scraper API](https://www.pangolinfo.com/amazon-scraper-api/) — Retrieve structured Amazon product, keyword-search, category, seller, Best Sellers and New Releases data with six parser templates across 13 marketplaces; 60 free credits monthly, no card required.
 
 ---
 
